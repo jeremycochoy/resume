@@ -1,4 +1,4 @@
-% J\'er\'emy Cochoy
+% Jérémy Cochoy
 
 ----
 
@@ -26,7 +26,7 @@ Since 2015
     Modele theorie.
 
 2012
-:   *Internship with Fr\'ed\'eric Chapoton*
+:   *Internship with Frédéric Chapoton*
 
     Knot theory.
 
