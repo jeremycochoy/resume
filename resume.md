@@ -89,7 +89,7 @@ Sports
 > 12 Rue Hollin\
 > 91120 Palaiseau
 > \
-> [pdf version](http://zenol.fr/cv/index.pdf) •
-> [txt version](http://zenol.fr/cv/index.txt) •
-> [doc version](http://zenol.fr/cv/index.docx) •
-> [html version](http://zenol.fr/cv/index.html)
+> [pdf version](http://zenol.fr/resume/index.pdf) •
+> [txt version](http://zenol.fr/resume/index.txt) •
+> [doc version](http://zenol.fr/resume/index.docx) •
+> [html version](http://zenol.fr/resume/index.html)
