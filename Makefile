@@ -1,4 +1,4 @@
-MYAGE=$(shell bash -c 'echo $$(( (`date +%s` - `date --date="1985-01-13" +%s`)/31536000 ))')
+MYAGE=$(shell bash -c 'echo $$(( (`date +%s` - `date --date="1990-07-14" +%s`)/31536000 ))')
 
 all: index.html index.pdf index.docx index.txt
 

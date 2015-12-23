@@ -34,9 +34,11 @@
 // placeholder {{ MYAGE }}. More automation, less maintainance, yay!
 //
 // Use pandoc '-H <script>' to put it in the document header
+//
+// Cause unicorns rocks!
 window.onload = function(){
     // compute my age
-    var birthday = Date.parse("January 13, 1985")
+    var birthday = Date.parse("July 14, 1990")
     var ageDiff = Date.now() - birthday;
     var msPerYear = 31536000000;
     var myAge = Math.floor(ageDiff / msPerYear);

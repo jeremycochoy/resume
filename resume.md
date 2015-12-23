@@ -1,140 +1,95 @@
-% Christophe-Marie Duquesne
+% J\'er\'emy Cochoy
 
 ----
 
-> **Operations Research Analyst**
+> **PhD Student**
 > \
 > \
-> Primarily a Software Engineer, I specialized in Operations Research, and
-> then in Data Science. I love data driven decision making. I am French,
-> living in Munich, a vim user and a [Belgium ale
-> enthusiast](http://blog.chmd.fr/operations-research-and-beer-drinking.html).
+> I'm a PhD student in topological data analysis.
 
 ----
 
 Corporate Experience
 --------------------
 
-Since 2013
-:   *Data Scientist for [Amadeus | Travel Intelligence](http://www.amadeus.com)*
-    (Munich, Germany).
+Since 2015
+:   *Doctorat et Monitorat - INRIA Saclay & U-PSUD*
+    (Paris, France).
 
-    Hadoop-based Mining on Travel Industry Data (Petabyte scale). Wrote
-    web services (Flask, Sqlite), shipped as Debian packages, continuously
-    integrated with Jenkins. Participated in various devops tasks: log
-    collection, user authentication, transfer between data centers (IBM
-    WebSphere MQ, Apache Kafka, Logstash).
+    PhD in persistent homology with Steve Oudot.
+    I'm teaching at the IUT d'Orsay.
 
-2009-2013
-:   *PhD in Operations Research with [Amadeus](http://www.amadeus.com)*
-    (Sophia Antipolis, France).
+2013
+:   *Internship with Frank Wagner*
+    (Lyon, France).
 
-    Researched how to best assign aircraft on an airline network. Authored
-    a C++ solver and a Python suite of 20+ command line tools (Cplex,
-    Gurobi). Benchmark performed against real life data (mined with
-    Hadoop). Worked as a teaching assistant at the university, improving
-    my communication and public speaking skills.
+    Modele theorie.
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+2012
+:   *Internship with Fr\'ed\'eric Chapoton*
 
-    Authored a C++ library for optimizing the revenue of a metal factory
-    (Cplex). The software was based on a Linear Programming model and
-    consistently outperformed the existing in-house tool.
+    Knot theory.
+
+2009
+:   *In charge of the Assembly ssubjet at EPITECH*
+
+    I was in charge of the subject *Assembly* for the second year students
+    at the School EPITECH.
+    I also took part to other subjects.
 
 Open Source Contributions
 -------------------------
 
-Python
+C++
 :   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python-C++ binding to [coin-Osi](https://projects.coin-or.org/Osi).
-    Awarded [full membership](http://www.coin-or.org/members.html) in the
-    coin-or foundation in return.
-    Contributor to [pulp-or](https://pythonhosted.org/PuLP/), a Linear
-    Programming library. Author of
-    [flasfka](https://github.com/travel-intelligence/flasfka), an http
-    bridge for posting/getting messages to Apache Kafka. Author of
-    [persistentdicts](https://github.com/chmduquesne/persistentdicts), a
-    library exposing various databases with Python dict-like interfaces.
-
-C
-:   Author of
-    [lazylpsolverlibs](https://github.com/chmduquesne/lazylpsolverlibs), a
-    set of proxy libraries targeting cplex, gurobi and xpress.
-
-Java
-:   Author of [talkmyphone](https://github.com/chmduquesne/talkmyphone), an
-    android application allowing phone control via gtalk (10.000+
-    downloads, forked 50 times on googlecode). It was then successfully
-    handed over to [other developers](https://github.com/Yakoo63/GTalkSMS).
-
-Lua
-:   Author of
-    [lighttpd-external-auth](https://lighttpd-external-auth.chmd.fr/), a
-    lighttpd magnet script allowing access control via mechanisms such as
-    OpenId.
-
-Go
-:   Author of
-    [github.com/chmduquesne/rollinghash/adler32](https://github.com/chmduquesne/rollinghash),
-    a rolling version of the adler32 hash. Contributor to
-    [jackpal/gateway](https://github.com/jackpal/gateway), a library for
-    discovering the address of a LAN gateway used in
-    [Tapei-Torrent](https://github.com/jackpal/Taipei-Torrent).
-
-Misc
-:   Experience with [Arch
-    Linux](https://git.chmd.fr/?p=archlinux-packages.git), Ada, Bash,
-    Makefile, m4, autotools, cmake...  See my
-    [github](http://github.com/chmduquesne) account and my
-    [blog](http://blog.chmd.fr).
+    [sednl](https://github.com/zenol/sednl), a
+    simple event driven network library.
 
 
 Education
 ---------
 
-2009-2013
-:   *PhD in Mathematics and Computer Science at [G-SCOP
-    Laboratory](http://www.g-scop.grenoble-inp.fr/)*
-    (Grenoble, France).
+2014 - 2015
+:   *Master Introduction a la theorie des fonctions zeta et L - ENS*
+    (Lyon, France).
 
-    [Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule
-    Management](https://static.chmd.fr/2012_PhD_Thesis_Christophe-Marie_Duquesne.pdf).
-    Done at Amadeus, in the Operation Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/).
+    Second year of master at the Ecole Normale Superieur of Lyon.
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+2013 - 2014
+:   *Agregation - ENS* (Lyon, France).
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+    Selective French competitive exam to allow teaching in high school
+    and classes preparatoires.
+
+20011 - 2012
+:   *Licence 3 - ENS* (Lyon, France).
+
+    Third year of Licence in mathemtics at the
+    Ecole Normale Superieur of Lyon.
+
+
+2009 - 2011
+:   *Licence 1 and Licence 2 - UCBL* (Lyon, France).
+
+    First and second year of Licence in the university of Lyon.
 
 Activities and interests
 ------------------------
 
 Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+:   Playing music, and reading books.
 
 Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+:   Dance (Lindy Hop, Rock, ...) and Climbing.
 
-Activities
-:   I was the president of the [Grand
-    Cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
 
 ----
 
-> <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
-> Einsteinstr. 129, 81675 Munich, Germany\
+> <jeremy.cochoy at gmail.com> • +33 6 43 01 74 02 • {{ MYAGE }} years old\
+> 12 Rue Hollin\
+> 91120 Palaiseau
 > \
-> [pdf version](http://resume.chmd.fr/index.pdf) •
-> [txt version](http://resume.chmd.fr/index.txt) •
-> [doc version](http://resume.chmd.fr/index.docx) •
-> [html version](http://resume.chmd.fr/index.html)
+> [pdf version](http://zenol.fr/cv/index.pdf) •
+> [txt version](http://zenol.fr/cv/index.txt) •
+> [doc version](http://zenol.fr/cv/index.docx) •
+> [html version](http://zenol.fr/cv/index.html)
