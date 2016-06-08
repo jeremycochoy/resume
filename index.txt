@@ -1,79 +1,72 @@
 Jérémy Cochoy
 
-------------------------------------------------------------------------
+* * * * *
 
-  PHD STUDENT
+  PhD Student  
+    
   I’m a PhD student in topological data analysis.
 
-------------------------------------------------------------------------
-
+* * * * *
 
 Corporate Experience
+--------------------
 
 Since 2015
-
-    _Doctorat et Monitorat - INRIA Saclay & U-PSUD_ (Paris, France).
+    Doctorat et Monitorat - INRIA Saclay & U-PSUD (Paris, France).
 
     PhD in persistent homology with Steve Oudot. I’m teaching at the IUT
     d’Orsay.
 
 2013
-
-    _Internship with Frank Wagner_ (Lyon, France).
+    Internship with Frank Wagner (Lyon, France).
 
     Modele theorie.
 
 2012
-
-    _Internship with Frédéric Chapoton_
+    Internship with Frédéric Chapoton
 
     Knot theory.
 
 2009
+    In charge of the Assembly ssubjet at EPITECH
 
-    _In charge of the Assembly ssubjet at EPITECH_
-
-    I was in charge of the subject _Assembly_ for the second year
-    students at the School EPITECH. I also took part to other subjects.
-
+    I was in charge of the subject Assembly for the second year students
+    at the School EPITECH. I also took part to other subjects.
 
 Open Source Contributions
+-------------------------
 
 C++
     Author of sednl, a simple event driven network library.
 
-
 Education
+---------
 
 2014 - 2015
-
-    _Master Introduction a la theorie des fonctions zeta et L - ENS_
+    Master Introduction a la theorie des fonctions zeta et L - ENS
     (Lyon, France).
 
     Second year of master at the Ecole Normale Superieur of Lyon.
 
 2013 - 2014
-
-    _Agregation - ENS_ (Lyon, France).
+    Agregation - ENS (Lyon, France).
 
     Selective French competitive exam to allow teaching in high school
     and classes preparatoires.
 
 20011 - 2012
-
-    _Licence 3 - ENS_ (Lyon, France).
+    Licence 3 - ENS (Lyon, France).
 
     Third year of Licence in mathemtics at the Ecole Normale Superieur
     of Lyon.
 
 2009 - 2011
-
-    _Licence 1 and Licence 2 - UCBL_ (Lyon, France).
+    Licence 1 and Licence 2 - UCBL (Lyon, France).
 
     First and second year of Licence in the university of Lyon.
 
-
 Activities and interests
+------------------------
 
 Hobbies
     Playing music, and reading books.
@@ -81,9 +74,9 @@ Hobbies
 Sports
     Dance (Lindy Hop, Rock, …) and Climbing.
 
-------------------------------------------------------------------------
+* * * * *
 
-   • +33 6 43 01 74 02 • 25 years old
-  12 Rue Hollin
-  91120 Palaiseau
+   • +33 6 43 01 74 02 • 25 years old  
+  27 Rue au maire  
+  75003 Paris  
   pdf version • txt version • doc version • html version

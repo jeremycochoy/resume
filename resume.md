@@ -86,8 +86,8 @@ Sports
 ----
 
 > <jeremy.cochoy at gmail.com> • +33 6 43 01 74 02 • {{ MYAGE }} years old\
-> 12 Rue Hollin\
-> 91120 Palaiseau
+> 27 Rue au maire\
+> 75003 Paris
 > \
 > [pdf version](http://zenol.fr/resume/index.pdf) •
 > [txt version](http://zenol.fr/resume/index.txt) •
