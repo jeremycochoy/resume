@@ -31,7 +31,7 @@ Since 2015
     Knot theory.
 
 2009
-:   *In charge of the Assembly ssubjet at EPITECH*
+:   *In charge of the Assembly subjet at EPITECH*
 
     I was in charge of the subject *Assembly* for the second year students
     at the School EPITECH.
@@ -86,8 +86,8 @@ Sports
 ----
 
 > <jeremy.cochoy at gmail.com> • +33 6 43 01 74 02 • {{ MYAGE }} years old\
-> 12 Rue Hollin\
-> 91120 Palaiseau
+> 27 Rue au Maire\
+> 75003 Paris
 > \
 > [pdf version](http://zenol.fr/resume/index.pdf) •
 > [txt version](http://zenol.fr/resume/index.txt) •
