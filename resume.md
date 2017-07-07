@@ -31,9 +31,9 @@ Since 2015
     Knot theory.
 
 2009
-:   *In charge of the Assembly ssubjet at EPITECH*
+:   *In charge of the Assembly subjet at EPITECH*
 
-    I was in charge of the subject *Assembly* for the second year students
+    I was in charge of the *Assembly* lessons for the second year students
     at the School EPITECH.
     I also took part to other subjects.
 
