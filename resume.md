@@ -45,6 +45,11 @@ C++
     [sednl](https://github.com/zenol/sednl), a
     simple event driven network library.
 
+Rust
+:   Author of
+    [SGB](https://github.com/zenol/sgb), a
+    simple game boy classic emulator written in rust.
+
 
 Education
 ---------
