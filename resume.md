@@ -85,7 +85,7 @@ Sports
 
 ----
 
-> <jeremy.cochoy at gmail.com> • +33 6 43 01 74 02 • {{ MYAGE }} years old\
+> jeremy.cochoy@gmail.com • +33 6 43 01 74 02 • {{ MYAGE }} years old\
 > 27 Rue au maire\
 > 75003 Paris
 > \
