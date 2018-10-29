@@ -48,6 +48,13 @@ Rust
 
 Education
 
+December 2018
+
+    *PhD in Persistent Homology (Paris, France).
+
+    PhD in persistent homology (mathematics and computer science) with
+    Steve Oudot. I will defend in december.
+
 2014 - 2015
 
     _Master Introduction a la theorie des fonctions zeta et L - ENS_

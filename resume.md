@@ -17,7 +17,7 @@ Since 2015
     (Paris, France).
 
     PhD in persistent homology with Steve Oudot.
-    I'm teaching at the IUT d'Orsay.
+    I taught at the IUT d'Orsay and Paris Descart.
 
 2013
 :   *Internship with Frank Wagner*
