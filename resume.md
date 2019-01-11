@@ -5,7 +5,7 @@
 > **Backend developper**
 > \
 > \
-> I'm a backend developper at Klaxit.
+> I am a backend developper at Klaxit.
 
 ----
 
