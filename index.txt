@@ -1,21 +1,27 @@
-Jérémy Cochoy
+Dr. Jérémy Cochoy
 
 ------------------------------------------------------------------------
 
-  PHD STUDENT
-  I’m a PhD student in topological data analysis.
+  BACKEND DEVELOPPER
+  I’m a backend developper at Klaxit.
 
 ------------------------------------------------------------------------
 
 
 Corporate Experience
 
-Since 2015
+Since 2018
+
+    _Backend Developper at Klaxit_
+
+    I am a backend developper at the French carpooling startup Klaxit.
+
+2015-2018
 
     _Doctorat et Monitorat - INRIA Saclay & U-PSUD_ (Paris, France).
 
-    PhD in persistent homology with Steve Oudot. I’m teaching at the
-    IUT d’Orsay.
+    PhD in persistent homology with Steve Oudot. I taught at the IUT
+    d’Orsay and University Paris Descart.
 
 2013
 
@@ -48,13 +54,6 @@ Rust
 
 Education
 
-December 2018
-
-    *PhD in Persistent Homology (Paris, France).
-
-    PhD in persistent homology (mathematics and computer science) with
-    Steve Oudot. I will defend in december.
-
 2014 - 2015
 
     _Master Introduction a la theorie des fonctions zeta et L - ENS_
@@ -86,7 +85,7 @@ December 2018
 Activities and interests
 
 Hobbies
-    Playing music, and reading books.
+    Playing and composing music, reading and listening to audiobooks.
 
 Sports
     Dance (Lindy Hop, Rock, …) and Climbing.

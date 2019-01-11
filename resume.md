@@ -1,23 +1,27 @@
-% Jérémy Cochoy
+% Dr. Jérémy Cochoy
 
 ----
 
-> **PhD Student**
+> **Backend developper**
 > \
 > \
-> I'm a PhD student in topological data analysis.
+> I'm a backend developper at Klaxit.
 
 ----
 
 Corporate Experience
 --------------------
+Since 2018
+:   *Backend Developper at Klaxit*
 
-Since 2015
+    I am a backend developper at the French carpooling startup Klaxit.
+
+2015-2018
 :   *Doctorat et Monitorat - INRIA Saclay & U-PSUD*
     (Paris, France).
 
     PhD in persistent homology with Steve Oudot.
-    I taught at the IUT d'Orsay and Paris Descart.
+    I taught at the IUT d'Orsay and University Paris Descart.
 
 2013
 :   *Internship with Frank Wagner*
@@ -42,12 +46,12 @@ Open Source Contributions
 
 C++
 :   Author of
-    [sednl](https://github.com/zenol/sednl), a
+    [sednl](https://github.com/jeremycochoy/sednl), a
     simple event driven network library.
 
 Rust
 :   Author of
-    [SGB](https://github.com/zenol/sgb), a
+    [SGB](https://github.com/jeremycochoy/sgb), a
     simple game boy classic emulator written in rust.
 
 
@@ -82,7 +86,7 @@ Activities and interests
 ------------------------
 
 Hobbies
-:   Playing music, and reading books.
+:   Playing and composing music, reading and listening to audiobooks.
 
 Sports
 :   Dance (Lindy Hop, Rock, ...) and Climbing.
