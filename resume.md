@@ -3,9 +3,7 @@
 ----
 
 > **CEO - Redstone Solutions**
-> \
-# > \
-# > Co founder of [Symphonia](http://symphonia.app)
+
 
 ----
 
