@@ -2,17 +2,17 @@
 
 ----
 
-> **CTO at Symphonia**
+> **CEO - Redstone Solutions**
 > \
-> \
-> Co founder of [Symphonia](http://symphonia.app)
+# > \
+# > Co founder of [Symphonia](http://symphonia.app)
 
 ----
 
 Corporate Experience
 --------------------
 
-2019
+2019-2020
 :   *CTO at Symphonia*
 
     R&D on audio signal processing using python and pytorch.
@@ -96,13 +96,14 @@ Rust
     [SGB](https://github.com/jeremycochoy/sgb), a
     simple game boy classic emulator written in rust.
 
-Few technologies and stacks I like
-----------------------------------
+Techs and Stacks
+---------------
 
+* Pytorch, Flask, Pandas
+* C++, Rust
+* Swift
 * Ruby, Rails, Sinatra, Redis
 * Vue.js, React
-* Pytorch, Flask
-* Swift
 * AVR assembly
 
 Activities and interests
@@ -118,8 +119,8 @@ Sports
 ----
 
 > jeremy.cochoy@gmail.com • +33 6 43 01 74 02 • {{ MYAGE }} years old\
-> 27 Rue au maire\
-> 75003 Paris
+> 43-300 Bielsko-Biala\
+> Poland
 > \
 > [pdf version](http://zenol.fr/resume/index.pdf) •
 > [txt version](http://zenol.fr/resume/index.txt) •
