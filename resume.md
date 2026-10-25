@@ -132,8 +132,9 @@ Sports
 ----
 
 > jeremy.cochoy@gmail.com • +33 6 43 01 74 02 • {{ MYAGE }} years old\
-> 43-300 Bielsko-Biala\
-> Poland
+> Rua Correia Teles 28 A\
+> 1350-100 Lisboa\
+> Portugal
 > \
 > [pdf version](http://zenol.fr/resume/index.pdf) •
 > [txt version](http://zenol.fr/resume/index.txt) •
