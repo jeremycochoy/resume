@@ -10,6 +10,18 @@
 Corporate Experience
 --------------------
 
+2021-Today
+:   *CEO at Redstone Solutions OÜ*
+
+    Real-time and high-availability solutions. Building advanced generative modeling and simulation technologies.
+
+2020-2021
+:   *ML Consulting*
+
+    Providing machine learning consulting services with a focus on time series forecasting.
+    Expertise includes designing and implementing predictive models using PyTorch, transformers,
+    and recurrent neural network architectures.
+
 2019-2020
 :   *CTO at Symphonia*
 
@@ -83,6 +95,11 @@ Education
 
 Open Source Contributions
 -------------------------
+
+Linux kernel
+:   Contributor to the ext2 filesystem
+    ([patch](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=92e128884bf04fb155413a78f45be1d73dff75a7)
+    merged in Linux 2.6.33).
 
 C++
 :   Author of
