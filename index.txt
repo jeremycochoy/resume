@@ -107,7 +107,7 @@ Education
 Open Source Contributions
 
 Linux kernel
-    Contributor to the ext2 filesystem (patch merged in Linux 2.6.33).
+    Contribution to the ext2 filesystem.
 
 C++
     Author of sednl, a simple event driven network library.
